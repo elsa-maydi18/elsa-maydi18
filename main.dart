@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             height: 200.0,
           ),
         new Text(
-          "Nama : Elsa Mayorita Dewanti",
+          "Nama : Elsa",
           style: new TextStyle(
             fontSize: 20.0,
             color: Colors.black ),
